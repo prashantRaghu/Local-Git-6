@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "83cbmkb2-9a05-4fb1-90a1-dmkmo1j35d0c",
+		"name": "Collection 3 ]",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "889210-83cbmkb2-9a05-4fb1-90a1-dmkmo1j35d0c"
+	},
+	"item": [],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "887edc35-4158-4bdf-982a-72e37ec89444",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "0ecb45a9-91b8-4a93-a780-232a228b8961",
+				"type": "text/javascript",
+				"exec": [
+					"console.log(pm)"
+				]
+			}
+		}
+	]
+}
