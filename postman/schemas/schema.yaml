@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: 'v1'
-  title: 'Local-Git-6'
+  title: 'Schema Edited From File System'
   license:
     name: MIT
 servers:
