@@ -1,16 +1,16 @@
 {
 	"info": {
-		"_postman_id": "0a0baf18-5ecc-452e-abcc-e50d7c9512ae",
+		"_postman_id": "9101a2c9-c6b7-4170-8e51-cf7eace11947",
 		"name": "Collection 3 ]",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "539613-0a0baf18-5ecc-452e-abcc-e50d7c9512ae"
+		"_uid": "539613-9101a2c9-c6b7-4170-8e51-cf7eace11947"
 	},
 	"item": [],
 	"event": [
 		{
 			"listen": "prerequest",
 			"script": {
-				"id": "478c8688-881b-4413-8d3c-f726eb229887",
+				"id": "874af1c1-3096-4aef-bf2d-e7e7fde1a853",
 				"type": "text/javascript",
 				"exec": [
 					""
@@ -20,7 +20,7 @@
 		{
 			"listen": "test",
 			"script": {
-				"id": "8f0edc85-5d1c-436a-bede-cbb80b2ce0d9",
+				"id": "2ffd9363-6b7f-45fe-a092-ddc90a08aa11",
 				"type": "text/javascript",
 				"exec": [
 					"console.log(pm)"
